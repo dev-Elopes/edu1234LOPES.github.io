@@ -1,0 +1,42 @@
+.wrapper {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    margin-bottom: 20px;
+}
+
+.button img {
+    width: 100px; /* Ajuste conforme necessário */
+    height: auto; /* Mantém a proporção */
+}
+
+.button span {
+    display: block;
+    margin-top: 5px;
+}
+#itau{
+    color: orange;
+
+}
+#santander{
+color: red;
+}
+#Sicredi{
+color: green;
+}
+#C6{
+color: black;
+}
+#inter{
+color: orange;
+}
+#nubank{
+ color: blueviolet;
+}
